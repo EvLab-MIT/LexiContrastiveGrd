@@ -9,6 +9,6 @@ Install this repo via `pip install -e .`
 
 # Evaluation
 
-## Word-RelatedNess
+## Word-Relatedness
 
 See the README file in the `./src/llm_devo/word_sim/` folder.
