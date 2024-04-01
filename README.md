@@ -1,3 +1,5 @@
+Code for both ["Visual Grounding Helps Learn Word Meanings in Low-Data Regimes"](https://arxiv.org/abs/2310.13257) and ["Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling"](https://arxiv.org/abs/2403.14551)
+
 # Environment
 
 Python 3.9, transformer package in huggingface, and datasets package in huggingface.
