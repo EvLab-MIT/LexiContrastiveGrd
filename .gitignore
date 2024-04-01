@@ -108,12 +108,8 @@ version.py
 .idea
 
 # custom
-*.pkl
 *.pkl.json
 *.log.json
-work_dirs/
-work_dirs
-pretrains
 
 # Pytorch
 *.pth

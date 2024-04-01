@@ -21,7 +21,7 @@ setup(
     'torch>=1.6',
     'transformers',
     'ipdb',
-    #'datasets',
+    'datasets',
   ],
   classifiers=[
     'Development Status :: 4 - Beta',

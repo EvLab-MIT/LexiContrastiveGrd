@@ -5,7 +5,6 @@ import numpy as np
 import ipdb
 import csv
 from tqdm import tqdm
-from scipy.stats import linregress
 from scipy.stats import spearmanr, pearsonr
 import pandas as pd
 from itertools import product
@@ -15,8 +14,6 @@ import llm_devo.notebooks.utils as utils
 from llm_devo.utils.word_related import load_aoa_data
 from llm_devo.env_vars import ROOT_DIR as NESE_ROOT
 from llm_devo.env_vars import ROOT_DIR_FREQ_ORG
-
-#NESE_ROOT = '/nese/mit/group/evlab/u/chengxuz'
 
 
 class WordSimMetrics:
