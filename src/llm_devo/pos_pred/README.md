@@ -12,3 +12,5 @@ Running the following commands will get the result.
 >>> test.get_aggre_perf()
 (0.9026763990267641, None)
 ```
+
+Masked models can be tested in the same way.
