@@ -8,8 +8,11 @@ Evaluation requires `lm_eval` repo ([link](https://github.com/chengxuz/lm-evalua
 
 Install this repo via `pip install -e .`
 
+# Model Training
 
-# Evaluation
+COMING SOON.
+
+# Model Evaluation
 
 ## Word-Relatedness
 
